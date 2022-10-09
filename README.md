@@ -8,3 +8,7 @@ A simple layout built with HTML and CSS Flexbox and it is also responsive.
 
 A simple layout built with HTML, CSS Flexbox and CSS Grid and it is also responsive.
 ![task2-image](https://github.com/The-Jitu-Assignments/week1-assignment/blob/master/task2/images/task-2.png)
+
+## Author
+
+John Katua
