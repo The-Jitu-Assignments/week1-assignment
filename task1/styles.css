@@ -109,6 +109,11 @@ body {
   width: 30%;
   height: 200px;
   border-radius: 10px;
+  transition: all .3s linear;
+}
+
+.item:hover {
+  transform: translateY(4px);
 }
 
 .box1 {
